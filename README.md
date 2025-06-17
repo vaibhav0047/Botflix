@@ -15,10 +15,10 @@ OpenAI API (or your backend AI logic) – to power smart conversations
 
  Conversational UI for a more natural interaction
 
- Responsive and clean design using Tailwind CSS
+ Responsive and clean design using CSS
 
  Modular architecture for easy updates and feature additions
 
  Fast performance with lightweight front-end stack
 
- Easy deployment on any static hosting platform (e.g., Vercel, Netlify)
+ Easy deployment on any static hosting platform like Netlify
